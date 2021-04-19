@@ -1,0 +1,28 @@
+{
+  "name": "recoil-types",
+  "version": "0.2.0",
+  "description": "To a second type parameter to selector of Recoil",
+  "main": "",
+  "types": "index.d.ts",
+  "sideEffects": false,
+  "scripts": {},
+  "homepage": "https://github.com/sanonz/recoil-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanonz/recoil-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanonz/recoil-types/issues"
+  },
+  "keywords": [
+    "recoil"
+  ],
+  "author": "Sanonz <sanonz@126.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "recoil": "*"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
